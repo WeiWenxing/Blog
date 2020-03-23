@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://github.com/WeiWenxing</id>
+    <id>https://weiwx.blog</id>
     <title>Gridea</title>
-    <updated>2020-03-23T02:48:14.579Z</updated>
+    <updated>2020-03-23T03:41:07.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://github.com/WeiWenxing"/>
-    <link rel="self" href="https://https://github.com/WeiWenxing/atom.xml"/>
+    <link rel="alternate" href="https://weiwx.blog"/>
+    <link rel="self" href="https://weiwx.blog/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://github.com/WeiWenxing/images/avatar.png</logo>
-    <icon>https://https://github.com/WeiWenxing/favicon.ico</icon>
+    <logo>https://weiwx.blog/images/avatar.png</logo>
+    <icon>https://weiwx.blog/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://github.com/WeiWenxing/post/hello-gridea/</id>
-        <link href="https://https://github.com/WeiWenxing/post/hello-gridea/">
+        <title type="html"><![CDATA[Weiwx的Blog]]></title>
+        <id>https://weiwx.blog/post/hello-gridea/</id>
+        <link href="https://weiwx.blog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
